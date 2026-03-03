@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.31+commit.fd3a2265"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "message",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"SimpleSmartContract.sol": "SimpleSmartContract"
+		},
+		"evmVersion": "osaka",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"SimpleSmartContract.sol": {
+			"keccak256": "0xfe095cdab2afc6714ecc49d0369c258bf2865cb1eb2561b680ff935829e7ae45",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://918613586feddc0ab46e137a637b375e07278e79749004fa6122cf7f186ea7e9",
+				"dweb:/ipfs/QmUQtLUedq29uRQXNLkkxk7t6nSqpE9Eoru5f9pzARba8z"
+			]
+		}
+	},
+	"version": 1
+}
